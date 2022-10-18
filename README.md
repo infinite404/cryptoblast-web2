@@ -1,3 +1,24 @@
+# dependencies   
+  
+@testing-library/jest-dom  
+@testing-library/react  
+@testing-library/user-event  
+bootstrap  
+react  
+react-accessible-accordion  
+react-background-video-player  
+react-body-classname  
+react-bootstrap  
+react-dom  
+react-helmet  
+react-icons  
+react-player  
+react-router-dom  
+react-scripts  
+styled-components  
+web-vitals  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
